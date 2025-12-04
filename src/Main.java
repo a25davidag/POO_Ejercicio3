@@ -5,7 +5,7 @@ public class Main {
     Consumo b = new Consumo(123,34,123,12);
 
 
-        System.out.println(Consumo.get);
+        System.out.println(b.consumoMedio());
 
     }
 }
